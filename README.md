@@ -39,7 +39,7 @@
 }
 
 .name{
-				margin-top:-21px;
+				margin-top:-40px;
 				text-align:center;
 	     font-family:cursive,"Brush Script MT";
 	     color:white;
@@ -75,7 +75,7 @@
 				width:32px;
 				height:32px;
 				border-radius:50px;
-				margin-left:-10px;
+				margin-left:5px;
 				text-decoration:none;
 }
 
@@ -154,7 +154,7 @@
 												<a class="tod" href="https://www.instagram.com/invites/contact/?i=8z0pugk0jumb&utm_content=3f70xoh">Sumber:Rifki Priyatna</a>
 								</li>
 				</ul>
-				</ha>
+				
 				<img class="img" src="https://raw.githubusercontent.com/rifkipriyatna/test/main/PicsArt_01-21-08.00.55.jpg" >
 				<br>	
 				<div class="bawah">
