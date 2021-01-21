@@ -20,7 +20,7 @@
 .jud {
 				background-color:gray;
 				width:27px;
-				height:0px;
+				
 				opacity:;
 				margin-left:20px;
 				display:flex;
@@ -141,7 +141,7 @@
 
 				</style>
 </head>
-<body><br><br><br><br><br>
+<body>
 				<div class="judul">
 								<button class="jud">
 												<span></span>
