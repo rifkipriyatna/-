@@ -13,7 +13,7 @@
 				background-color:gray;
 				position:fixed;
 				right:0; left:0;
-				top:0; padding:7px;
+				top:0; padding:14px;
 				
 }
 
@@ -58,7 +58,7 @@
 .img{
 				margin-left:px;;
 				width:345px;
-				height:190px;
+				height:180px;
 }
 
 .bawah{
