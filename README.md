@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="in">
 <head>
 				<title>Rifki Priyatna</title>
@@ -35,7 +35,10 @@
 				width:17px;
 				height:3px;
 				display:block;	
-				margin-left:-3px;	
+				margin-left:-3px;
+				
+				
+				
 }
 
 .name{
