@@ -26,7 +26,8 @@
 				display:flex;
 				justify-content:space-between;
 				flex-direction:column;
-				margin-top:10px;
+				margin-top:10px; margin-bottom:-20px;
+				
 }
 
 .jud span{
@@ -35,14 +36,14 @@
 				width:17px;
 				height:3px;
 				display:block;	
-				margin-left:-3px;
+				margin-left:-3px; margin-bottom:-20px;
 				
 				
 				
 }
 
 .name{
-				margin-top:-40px;
+				margin-top:-21px;
 				text-align:center;
 	     font-family:cursive,"Brush Script MT";
 	     color:white;
