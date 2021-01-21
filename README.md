@@ -20,7 +20,7 @@
 .jud {
 				background-color:gray;
 				width:27px;
-				height:17px;
+				height:8px;
 				opacity:;
 				margin-left:20px;
 				display:flex;
