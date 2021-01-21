@@ -150,7 +150,7 @@
 								</button>
 								<h3 class="name">Rifki Priyatna</h3>
 				</div>
-				<br><br>
+				
 				<h2 class="open">School Story</h2>
 				<div class="ha">
 				<ul>
