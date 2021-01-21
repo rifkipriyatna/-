@@ -34,9 +34,9 @@
 				background-color:white;
 				color:red;
 				width:17px;
-				height:3px;
+				height:1px;
 				display:block;	
-				margin-left:-3px; margin-bottom:-20px;
+				margin-left:-3px; margin-bottom:-30px;
 				
 				
 				
